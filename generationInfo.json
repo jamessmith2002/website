@@ -1,0 +1,10 @@
+{
+    "generationTool": "pwabuilder-api",
+    "generationToolVersion": "2.0.1-rc.0",
+    "platformId": "web",
+    "platformPackage": "pwabuilder-web",
+    "platformVersion": "2.0.0-rc.2",
+    "generatedFrom": "Website Wizard",
+    "generationDate": "2018-07-05 10:22:50 Z",
+    "generatedURL": "https://jamessmith2002.github.io/website/site.webmanifest"
+}
